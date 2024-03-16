@@ -1,4 +1,5 @@
-DOMAIN-SUFFIX,shouqianba.com
-DOMAIN-SUFFIX,skugry.dev
-DOMAIN-SUFFIX,braze.com
-DOMAIN-SUFFIX,appsflyer.com
+payload:
+  - DOMAIN-SUFFIX,shouqianba.com
+  - DOMAIN-SUFFIX,skugry.dev
+  - DOMAIN-SUFFIX,braze.com
+  - DOMAIN-SUFFIX,appsflyer.com
